@@ -1,0 +1,7 @@
+C:\Users\aydar\source\repos\Sуstem\Sуstem\bin\Debug\Sуstem.exe.config
+C:\Users\aydar\source\repos\Sуstem\Sуstem\bin\Debug\Sуstem.exe
+C:\Users\aydar\source\repos\Sуstem\Sуstem\bin\Debug\Sуstem.pdb
+C:\Users\aydar\source\repos\Sуstem\Sуstem\obj\Debug\Sуstem.csprojAssemblyReference.cache
+C:\Users\aydar\source\repos\Sуstem\Sуstem\obj\Debug\Sуstem.csproj.CoreCompileInputs.cache
+C:\Users\aydar\source\repos\Sуstem\Sуstem\obj\Debug\Sуstem.exe
+C:\Users\aydar\source\repos\Sуstem\Sуstem\obj\Debug\Sуstem.pdb
