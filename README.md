@@ -18,3 +18,5 @@ Telegraph_botnet имеет 2 метода атаки.
 ![Image alt](https://raw.githubusercontent.com/samuraisudo/telegraph_botnet/main/2.png)
 <br>
 Компьютеры с данным файлом будут массово атаковать указанные цели и по указанному методу.
+<br>
+Чтобы остановить, укажите заголовок STOP и боты будут ожидать следующие команды.
