@@ -10,6 +10,9 @@ Telegraph_botnet имеет 2 метода атаки.
 - Ping<br>
 <br>
 Чтобы использовать флуд GET запросами, откройте леграф и укажите в заголовке метод GET, а в контент цель.<br>
-![Image alt](https://raw.githubusercontent.com/samuraisudo/telegraph_botnet/main/1.png)<br>
-Чтобы использовать PING, откройте леграф и укажите в заголовке DPING, а в контент цель.<br>
+
+![Image alt](https://raw.githubusercontent.com/samuraisudo/telegraph_botnet/main/1.png)
+
+Чтобы использовать PING, откройте леграф и укажите в заголовке DPING, а в контент цель.
+
 ![Image alt](https://raw.githubusercontent.com/samuraisudo/telegraph_botnet/main/2.png)
