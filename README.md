@@ -16,3 +16,5 @@ Telegraph_botnet имеет 2 метода атаки.
 Чтобы использовать PING, откройте леграф и укажите в заголовке DPING, а в контент цель(IP или домен).
 
 ![Image alt](https://raw.githubusercontent.com/samuraisudo/telegraph_botnet/main/2.png)
+<br>
+Компьютеры с данным файлом будут массово атаковать указанные цели и по указанному методу.
